@@ -14,7 +14,7 @@ const About = () => {
           <div className="space-y-8">
             <div className="bg-white/10 backdrop-blur-sm p-8 rounded-2xl border border-amber-300/20">
               <p className="text-xl text-amber-100 leading-relaxed mb-6">
-                <strong className="text-yellow-300">ACESJur</strong> es una institución académica de excelencia 
+                <strong className="text-yellow-300">AAEJ</strong> es una institución académica de excelencia 
                 que ofrece <strong className="text-yellow-300">Cursos de Posgrado</strong> en estrecha 
                 colaboración con profesores doctores vinculados a diversas instituciones y universidades 
                 de prestigio internacional.
