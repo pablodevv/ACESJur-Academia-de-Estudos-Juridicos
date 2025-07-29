@@ -8,7 +8,7 @@ const Faculty = () => {
       role: 'Director General',
       specialty: 'Doctorado en Ciencias Jurídicas, Universidad de La Habana 1992',
       location: 'Hialeah, Florida, EE.UU.',
-      description: 'Director ACESJur y Coordinador Campus Florida',
+      description: 'Director AAEJ y Coordinador Campus Florida',
       image: 'https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg'
     },
     {
@@ -16,7 +16,7 @@ const Faculty = () => {
       role: 'Coordinador Académico',
       specialty: 'Doctorado en Ciencias Jurídicas, Universidad de La Habana 1998',
       location: 'São Paulo, Brasil',
-      description: 'Coordinación Académica de Estudios de Posgrado ACESJur/UNAM',
+      description: 'Coordinación Académica de Estudios de Posgrado AAEJ',
       image: 'https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg'
     }
   ];
@@ -27,7 +27,7 @@ const Faculty = () => {
       degree: 'Master en Ciencias Penales',
       institution: 'Centro Nacional de Investigaciones Jurídicas de México CENIJUR',
       location: 'Ciudad de México',
-      role: 'Coordinador ACESJur Campus México',
+      role: 'Coordinador AAEJ Campus México',
       year: 'Campus Puebla y Acapulco'
     },
     {
