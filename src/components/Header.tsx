@@ -23,8 +23,8 @@ const Header = () => {
               <Scale className="h-8 w-8 text-amber-900" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-white">ACESJur</h1>
-              <p className="text-amber-200 text-sm">Academia Cubana de Estudios Sociales y Jurídicos</p>
+              <h1 className="text-2xl font-bold text-white">AAEJ</h1>
+              <p className="text-amber-200 text-sm">Academia Americana de Educación Jurídica - José Martí</p>
             </div>
           </div>
 
