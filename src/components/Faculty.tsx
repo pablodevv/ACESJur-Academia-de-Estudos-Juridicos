@@ -31,7 +31,7 @@ const Faculty = () => {
       year: 'Campus Puebla y Acapulco'
     },
     {
-      name: 'Dr. Elena Polo Maceira',
+      name: 'Dr. .........',
       degree: 'Doctora en Ciencias Jurídicas',
       institution: 'Universidad de La Habana',
       location: 'Ciudad de México',
@@ -39,7 +39,7 @@ const Faculty = () => {
       year: '2008'
     },
     {
-      name: 'Dr. Danelia Cutié Mustelier',
+      name: 'Dr. .........',
       degree: 'Doctora en Ciencias Jurídicas',
       institution: 'Universidad de La Habana',
       location: 'Ciudad de México',
@@ -55,7 +55,7 @@ const Faculty = () => {
       year: '2012'
     },
     {
-      name: 'Dr. Josefina Méndez López',
+      name: 'Dr. .........',
       degree: 'Doctora en Ciencias Jurídicas',
       institution: 'Universidad de La Habana',
       location: 'Miami, Florida, EE.UU.',
@@ -63,7 +63,7 @@ const Faculty = () => {
       year: '2002'
     },
     {
-      name: 'Dr. Fidel González García',
+      name: 'Dr. .........',
       degree: 'Doctor en Ciencias Jurídicas',
       institution: 'Universidad de La Habana',
       location: 'Santiago de Cuba',
@@ -71,7 +71,7 @@ const Faculty = () => {
       year: '2009'
     },
     {
-      name: 'Dr. Walter Modelo García',
+      name: 'Dr. .........',
       degree: 'Doctor en Ciencias Jurídicas',
       institution: 'Universidad de La Habana',
       location: 'Santiago de Cuba',
