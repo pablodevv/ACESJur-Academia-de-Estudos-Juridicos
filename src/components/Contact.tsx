@@ -28,7 +28,7 @@ const Contact = () => {
       location: 'Ciudad de México, México',
       coverage: 'Puebla y Acapulco',
       phone: '+52 55 1234-5678',
-      email: 'mexico@acesjur.edu'
+      email: 'mexico@AAEJ.edu'
     },
     {
       name: 'Campus Florida',
@@ -36,7 +36,7 @@ const Contact = () => {
       location: 'Hialeah, Florida, EE.UU.',
       coverage: 'Florida',
       phone: '+1 (305) 555-0123',
-      email: 'florida@acesjur.edu'
+      email: 'florida@AAEJ.edu'
     },
     {
       name: 'Campus Texas',
@@ -44,7 +44,7 @@ const Contact = () => {
       location: 'San Antonio, Texas, EE.UU.',
       coverage: 'Texas, Arizona y California',
       phone: '+1 (210) 555-0456',
-      email: 'texas@acesjur.edu'
+      email: 'texas@AAEJ.edu'
     },
     {
       name: 'Campus Brasil',
@@ -52,7 +52,7 @@ const Contact = () => {
       location: 'São Paulo, Brasil',
       coverage: 'Brasil',
       phone: '+55 11 9876-5432',
-      email: 'brasil@acesjur.edu'
+      email: 'brasil@AAEJ.edu'
     },
     {
       name: 'Campus Cuba',
@@ -60,7 +60,7 @@ const Contact = () => {
       location: 'Santiago de Cuba, Cuba',
       coverage: 'Cuba',
       phone: '+53 22 123-456',
-      email: 'cuba@acesjur.edu'
+      email: 'cuba@AAEJ.edu'
     }
   ];
 
@@ -169,7 +169,7 @@ const Contact = () => {
                   <Mail className="h-6 w-6 text-yellow-400 mt-1" />
                   <div>
                     <p className="text-white font-medium">Correo Principal</p>
-                    <p className="text-amber-200">info@acesjur.edu</p>
+                    <p className="text-amber-200">info@AAEJ.edu</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
@@ -183,7 +183,7 @@ const Contact = () => {
                   <Globe className="h-6 w-6 text-yellow-400 mt-1" />
                   <div>
                     <p className="text-white font-medium">Sitio Web</p>
-                    <p className="text-amber-200">www.acesjur.edu</p>
+                    <p className="text-amber-200">www.AAEJ.edu</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
