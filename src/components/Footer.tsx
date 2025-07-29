@@ -149,7 +149,7 @@ const Footer = () => {
               <p>&copy; 2025 Academia Americana de Educación Jurídica - José Martí (AAEJ). Todos los derechos reservados.</p>
             </div>
             <div className="text-amber-300 text-sm mt-4 md:mt-0">
-              <p>Sitio web desarrollado con excelencia por Pablo Eduardo Jimenez Rodriguez • Versión 2025.1</p>
+              <p>Sitio web desarrollado con excelencia por Pablo Rodriguez • Versión 2025.1</p>
             </div>
           </div>
           
