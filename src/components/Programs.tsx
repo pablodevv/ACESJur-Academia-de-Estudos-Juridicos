@@ -6,8 +6,8 @@ const Programs = () => {
 
   const programs = {
     especializacion: {
-      title: 'Especializaciones',
-      icon: <BookOpen className="h-8 w-8" />,
+      title: 'Cursos',
+      icon: <GraduationCap className="h-8 w-8" />,
       duration: '6-8 meses',
       modality: 'Virtual y Presencial',
       description: 'Programas especializados que profundizan en áreas específicas del derecho',
@@ -46,8 +46,8 @@ const Programs = () => {
       ]
     },
     maestrias: {
-      title: 'Maestrías',
-      icon: <GraduationCap className="h-8 w-8" />,
+      title: 'Especialización',
+      icon: <Crown className="h-8 w-8" />,
       duration: '18-24 meses',
       modality: 'Semipresencial',
       description: 'Programas de maestría con reconocimiento internacional y tesis de grado',
@@ -64,28 +64,7 @@ const Programs = () => {
         'Proyecto de investigación',
         'Entrevista académica'
       ]
-    },
-    doctorados: {
-      title: 'Doctorados',
-      icon: <Crown className="h-8 w-8" />,
-      duration: '3-4 años',
-      modality: 'Investigación dirigida',
-      description: 'El más alto grado académico con investigación original y tesis doctoral',
-      courses: [
-        'Doctorado en Ciencias Jurídicas',
-        'Doctorado en Derecho Constitucional',
-        'Doctorado en Derecho Internacional',
-        'Doctorado en Filosofía del Derecho',
-        'Doctorado en Derecho Comparado'
-      ],
-      requirements: [
-        'Maestría en área afín con excelencia académica',
-        'Propuesta de investigación doctoral',
-        'Publicaciones académicas previas',
-        'Aprobación del comité doctoral'
-      ]
-    }
-  };
+    };
 
   const currentProgram = programs[activeProgram];
 
