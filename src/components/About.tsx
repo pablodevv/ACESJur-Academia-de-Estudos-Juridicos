@@ -20,9 +20,8 @@ const About = () => {
                 de prestigio internacional.
               </p>
               <p className="text-lg text-amber-200 leading-relaxed">
-                Nuestros programas responden a las <strong className="text-yellow-300">orientaciones metodológicas</strong> 
-                que establece el reglamento de educación continua para el diseño y operaciones de los planes 
-                de estudios de diplomado de la <strong className="text-yellow-300">Universidad Nacional Autónoma de México</strong>.
+                Nuestros programas responden a las <strong className="text-yellow-300">orientaciones de las metodologias activas</strong> para la educación
+                continua y el <strong className="text-yellow-300">perfeccionamiento eficaz</strong> de los estudiantes y profesionales del derecho.
               </p>
             </div>
           </div>
