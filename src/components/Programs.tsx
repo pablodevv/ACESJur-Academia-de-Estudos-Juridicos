@@ -8,7 +8,7 @@ const Programs = () => {
     especializacion: {
       title: 'Cursos',
       icon: <GraduationCap className="h-8 w-8" />,
-      duration: '6-8 meses',
+      duration: '20-40 horas',
       modality: 'Virtual y Presencial',
       description: 'Programas especializados que profundizan en áreas específicas del derecho',
       courses: [
@@ -30,7 +30,7 @@ const Programs = () => {
       icon: <Award className="h-8 w-8" />,
       duration: '4-6 meses',
       modality: 'Virtual',
-      description: 'Cursos intensivos de actualización profesional con certificación UNAM',
+      description: 'Cursos intensivos de actualización profesional con certificación',
       courses: [
         'Diplomado en Derecho Procesal Civil',
         'Diplomado en Derecho Mercantil',
@@ -64,7 +64,7 @@ const Programs = () => {
         'Proyecto de investigación',
         'Entrevista académica'
       ]
-    };
+    }};
 
   const currentProgram = programs[activeProgram];
 
