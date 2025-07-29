@@ -256,7 +256,7 @@ const Admission = () => {
                   <Mail className="h-6 w-6 text-yellow-300" />
                   <div>
                     <p className="font-medium">Correo Electrónico</p>
-                    <p className="text-amber-200">admisiones@acesjur.edu</p>
+                    <p className="text-amber-200">admisiones@AAEJ.edu</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">
