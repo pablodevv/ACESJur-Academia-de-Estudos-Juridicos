@@ -24,7 +24,7 @@ const Footer = () => {
     'Política de Privacidad',
     'Reglamento Académico',
     'Código de Ética',
-    'Certificaciones UNAM'
+    'Certificaciones'
   ];
 
   return (
@@ -138,12 +138,7 @@ const Footer = () => {
               </div>
             </div>
 
-            {/* UNAM Partnership */}
-            <div className="mt-8 p-4 bg-amber-800/30 rounded-lg border border-amber-700/30">
-              <p className="text-amber-200 text-sm mb-2">En asociación con:</p>
-              <p className="text-white font-bold">Universidad Nacional Autónoma de México</p>
-              <p className="text-amber-300 text-xs">Certificación y validación académica</p>
-            </div>
+           
           </div>
         </div>
 
@@ -158,15 +153,7 @@ const Footer = () => {
             </div>
           </div>
           
-          <div className="mt-6 text-center">
-            <div className="bg-gradient-to-r from-yellow-600/20 to-amber-600/20 p-4 rounded-lg border border-amber-600/30">
-              <p className="text-amber-100 text-sm">
-                <strong>Aviso Importante:</strong> ACESJur es una institución académica independiente que opera 
-                bajo los estándares y metodologías del reglamento de educación continua de la UNAM. 
-                Todos nuestros programas están diseñados para la formación profesional continua en ciencias jurídicas.
-              </p>
-            </div>
-          </div>
+          
         </div>
       </div>
     </footer>
