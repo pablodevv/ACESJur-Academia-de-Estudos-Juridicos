@@ -60,8 +60,7 @@ const Hero = () => {
             <span className="text-yellow-700 block">Ciencias Jurídicas</span>
           </h1>
           <p className="text-xl md:text-2xl text-amber-800 mb-8 max-w-4xl mx-auto leading-relaxed">
-            Formando profesionales del derecho con los más altos estándares académicos internacionales, 
-            en asociación con la Universidad Nacional Autónoma de México
+            Formando profesionales del derecho con los más altos estándares académicos internacionales
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="bg-gradient-to-r from-amber-600 to-yellow-600 text-white px-8 py-4 rounded-full font-semibold text-lg hover:from-amber-700 hover:to-yellow-700 transition-all duration-300 shadow-xl hover:shadow-2xl transform hover:scale-105 flex items-center justify-center">
@@ -79,9 +78,9 @@ const Hero = () => {
             <div className="bg-gradient-to-br from-yellow-400 to-amber-500 p-4 rounded-full w-16 h-16 flex items-center justify-center mb-6">
               <Award className="h-8 w-8 text-amber-900" />
             </div>
-            <h3 className="text-2xl font-bold text-amber-900 mb-4">Certificación UNAM</h3>
+            <h3 className="text-2xl font-bold text-amber-900 mb-4">Certificación Reconocida</h3>
             <p className="text-amber-700 leading-relaxed">
-              Todos nuestros programas están avalados por la Universidad Nacional Autónoma de México, 
+              Todos nuestros curso son impratidos por profesores de Alto Reconocimiento Internacional, 
               garantizando la más alta calidad académica.
             </p>
           </div>
@@ -103,8 +102,8 @@ const Hero = () => {
             </div>
             <h3 className="text-2xl font-bold text-amber-900 mb-4">Metodología Avanzada</h3>
             <p className="text-amber-700 leading-relaxed">
-              Programas diseñados bajo las orientaciones metodológicas del reglamento de educación 
-              continua de la UNAM para máxima efectividad.
+              Programas diseñados bajo las orientaciones de las metodologias activas para la educación 
+              continua y el perfeccionamiento eficaz de los estudiantes y profesionales del derecho.
             </p>
           </div>
         </div>
