@@ -39,7 +39,7 @@ const Footer = () => {
                 <Scale className="h-8 w-8 text-amber-900" />
               </div>
               <div>
-                <h3 className="text-2xl font-bold">ACESJur</h3>
+                <h3 className="text-2xl font-bold">AAEJ</h3>
                 <p className="text-amber-300 text-sm">Academia Cubana de Estudios Sociales y Jurídicos</p>
               </div>
             </div>
@@ -119,7 +119,7 @@ const Footer = () => {
                 <Mail className="h-5 w-5 text-yellow-400 mt-1" />
                 <div>
                   <p className="text-amber-200 text-sm">Correo General</p>
-                  <p className="text-white font-medium">info@acesjur.edu</p>
+                  <p className="text-white font-medium">info@AAEJ.edu</p>
                 </div>
               </div>
               <div className="flex items-start space-x-3">
@@ -146,7 +146,7 @@ const Footer = () => {
         <div className="border-t border-amber-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-amber-200 text-sm">
-              <p>&copy; 2024 Academia Cubana de Estudios Sociales y Jurídicos (ACESJur). Todos los derechos reservados.</p>
+              <p>&copy; 2024 Academia Cubana de Estudios Sociales y Jurídicos (AAEJ). Todos los derechos reservados.</p>
             </div>
             <div className="text-amber-300 text-sm mt-4 md:mt-0">
               <p>Sitio web desarrollado con excelencia académica • Versión 2024.1</p>
