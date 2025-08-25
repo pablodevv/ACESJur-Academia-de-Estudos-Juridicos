@@ -6,46 +6,46 @@ const Hero = () => {
     <section id="inicio" className="relative bg-gradient-to-br from-amber-50 via-yellow-50 to-amber-100 py-20 overflow-hidden">
       <div className="absolute inset-0 bg-[url('https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg')] bg-cover bg-center opacity-5"></div>
       
-      {/* Classical Pillars */}
+      {}
       <div className="absolute inset-0 pointer-events-none">
-        {/* Left Pillar */}
+        {}
         <div className="absolute left-4 md:left-8 lg:left-16 top-0 bottom-0 w-12 md:w-16 lg:w-20 opacity-15">
           <div className="h-full flex flex-col">
-            {/* Pillar Capital */}
+            {}
             <div className="w-full h-8 md:h-12 bg-gradient-to-b from-amber-600 to-amber-700 rounded-t-lg relative">
               <div className="absolute -top-2 -left-2 -right-2 h-4 bg-gradient-to-b from-amber-500 to-amber-600 rounded-lg"></div>
               <div className="absolute top-2 left-1 right-1 bottom-1 bg-gradient-to-b from-amber-400 to-amber-500 rounded-sm"></div>
             </div>
-            {/* Pillar Shaft */}
+            {}
             <div className="flex-1 bg-gradient-to-r from-amber-600 via-amber-500 to-amber-600 relative">
-              {/* Fluting lines */}
+              {}
               <div className="absolute inset-y-0 left-1/4 w-px bg-amber-700 opacity-50"></div>
               <div className="absolute inset-y-0 left-2/4 w-px bg-amber-400 opacity-30"></div>
               <div className="absolute inset-y-0 left-3/4 w-px bg-amber-700 opacity-50"></div>
             </div>
-            {/* Pillar Base */}
+            {}
             <div className="w-full h-6 md:h-8 bg-gradient-to-t from-amber-700 to-amber-600 relative">
               <div className="absolute -bottom-1 -left-2 -right-2 h-3 bg-gradient-to-t from-amber-800 to-amber-700 rounded-b-lg"></div>
             </div>
           </div>
         </div>
         
-        {/* Right Pillar */}
+        {}
         <div className="absolute right-4 md:right-8 lg:right-16 top-0 bottom-0 w-12 md:w-16 lg:w-20 opacity-15">
           <div className="h-full flex flex-col">
-            {/* Pillar Capital */}
+            {}
             <div className="w-full h-8 md:h-12 bg-gradient-to-b from-amber-600 to-amber-700 rounded-t-lg relative">
               <div className="absolute -top-2 -left-2 -right-2 h-4 bg-gradient-to-b from-amber-500 to-amber-600 rounded-lg"></div>
               <div className="absolute top-2 left-1 right-1 bottom-1 bg-gradient-to-b from-amber-400 to-amber-500 rounded-sm"></div>
             </div>
-            {/* Pillar Shaft */}
+            {}
             <div className="flex-1 bg-gradient-to-r from-amber-600 via-amber-500 to-amber-600 relative">
-              {/* Fluting lines */}
+              {}
               <div className="absolute inset-y-0 left-1/4 w-px bg-amber-700 opacity-50"></div>
               <div className="absolute inset-y-0 left-2/4 w-px bg-amber-400 opacity-30"></div>
               <div className="absolute inset-y-0 left-3/4 w-px bg-amber-700 opacity-50"></div>
             </div>
-            {/* Pillar Base */}
+            {}
             <div className="w-full h-6 md:h-8 bg-gradient-to-t from-amber-700 to-amber-600 relative">
               <div className="absolute -bottom-1 -left-2 -right-2 h-3 bg-gradient-to-t from-amber-800 to-amber-700 rounded-b-lg"></div>
             </div>
