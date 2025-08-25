@@ -91,7 +91,7 @@ const Faculty = () => {
           <div className="w-24 h-1 bg-gradient-to-r from-yellow-400 to-amber-400 mx-auto mt-6"></div>
         </div>
 
-        {/* Leadership Team */}
+        {}
         <div className="mb-16">
           <h3 className="text-3xl font-bold text-white text-center mb-12 flex items-center justify-center">
             <Crown className="h-8 w-8 mr-3 text-yellow-400" />
@@ -122,7 +122,7 @@ const Faculty = () => {
           </div>
         </div>
 
-        {/* Faculty Grid */}
+        {}
         <div className="mb-12">
           <h3 className="text-3xl font-bold text-white text-center mb-12 flex items-center justify-center">
             <Users className="h-8 w-8 mr-3 text-yellow-400" />
@@ -164,7 +164,7 @@ const Faculty = () => {
           </div>
         </div>
 
-        {/* Call to Action */}
+        {}
         <div className="text-center">
           <div className="bg-gradient-to-r from-yellow-400 to-amber-400 p-8 rounded-2xl shadow-2xl max-w-4xl mx-auto">
             <h3 className="text-2xl md:text-3xl font-bold text-amber-900 mb-4">
