@@ -30,9 +30,9 @@ const Footer = () => {
   return (
     <footer className="bg-gradient-to-br from-amber-950 via-yellow-900 to-amber-950 text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-        {/* Main Footer Content */}
+        {}
         <div className="grid lg:grid-cols-4 gap-8">
-          {/* Institution Info */}
+          {}
           <div className="lg:col-span-1">
             <div className="flex items-center space-x-3 mb-6">
               <div className="bg-gradient-to-br from-yellow-400 to-amber-500 p-3 rounded-full">
@@ -63,7 +63,7 @@ const Footer = () => {
             </div>
           </div>
 
-          {/* Quick Links */}
+          {}
           <div>
             <h4 className="text-xl font-bold text-white mb-6">Enlaces Rápidos</h4>
             <ul className="space-y-3">
@@ -80,7 +80,7 @@ const Footer = () => {
             </ul>
           </div>
 
-          {/* Programs */}
+          {}
           <div>
             <h4 className="text-xl font-bold text-white mb-6">Programas Académicos</h4>
             <ul className="space-y-3">
@@ -111,7 +111,7 @@ const Footer = () => {
             </ul>
           </div>
 
-          {/* Contact Info */}
+          {}
           <div>
             <h4 className="text-xl font-bold text-white mb-6">Contacto</h4>
             <div className="space-y-4">
@@ -142,7 +142,7 @@ const Footer = () => {
           </div>
         </div>
 
-        {/* Bottom Bar */}
+        {}
         <div className="border-t border-amber-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-amber-200 text-sm">
