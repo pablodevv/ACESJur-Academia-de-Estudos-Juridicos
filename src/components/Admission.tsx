@@ -22,7 +22,6 @@ const Admission = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // Handle form submission
     console.log('Form submitted:', formData);
   };
 
@@ -75,7 +74,7 @@ const Admission = () => {
           <div className="w-24 h-1 bg-gradient-to-r from-yellow-600 to-amber-600 mx-auto mt-6"></div>
         </div>
 
-        {/* Admission Steps */}
+        {}
         <div className="mb-16">
           <h3 className="text-3xl font-bold text-amber-900 text-center mb-12">Pasos para la Admisión</h3>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -97,7 +96,7 @@ const Admission = () => {
         </div>
 
         <div className="grid lg:grid-cols-2 gap-12">
-          {/* Application Form */}
+          {}
           <div className="bg-white rounded-2xl shadow-2xl p-8 border border-amber-200">
             <h3 className="text-2xl font-bold text-amber-900 mb-6 flex items-center">
               <FileText className="h-6 w-6 mr-3 text-yellow-600" />
@@ -224,9 +223,9 @@ const Admission = () => {
             </form>
           </div>
 
-          {/* Required Documents & Contact */}
+          {}
           <div className="space-y-8">
-            {/* Required Documents */}
+            {}
             <div className="bg-white rounded-2xl shadow-xl p-8 border border-amber-200">
               <h3 className="text-2xl font-bold text-amber-900 mb-6 flex items-center">
                 <CheckCircle className="h-6 w-6 mr-3 text-yellow-600" />
@@ -248,7 +247,7 @@ const Admission = () => {
               </div>
             </div>
 
-            {/* Contact Information */}
+            {}
             <div className="bg-gradient-to-br from-amber-600 to-yellow-600 rounded-2xl shadow-xl p-8 text-white">
               <h3 className="text-2xl font-bold mb-6">Información de Contacto</h3>
               <div className="space-y-4">
