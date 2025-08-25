@@ -87,7 +87,7 @@ const Contact = () => {
         </div>
 
         <div className="grid lg:grid-cols-2 gap-12 mb-16">
-          {/* Contact Form */}
+          {}
           <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-8 border border-amber-300/20">
             <h3 className="text-2xl font-bold text-white mb-6 flex items-center">
               <MessageCircle className="h-6 w-6 mr-3 text-yellow-400" />
@@ -160,7 +160,7 @@ const Contact = () => {
             </form>
           </div>
 
-          {/* Contact Information */}
+          {}
           <div className="space-y-8">
             <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-8 border border-amber-300/20">
               <h3 className="text-2xl font-bold text-white mb-6">Información General</h3>
@@ -216,7 +216,7 @@ const Contact = () => {
           </div>
         </div>
 
-        {/* Campus Locations */}
+        {}
         <div>
           <h3 className="text-3xl font-bold text-white text-center mb-12 flex items-center justify-center">
             <MapPin className="h-8 w-8 mr-3 text-yellow-400" />
