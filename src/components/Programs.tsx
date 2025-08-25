@@ -79,7 +79,7 @@ const Programs = () => {
           <div className="w-24 h-1 bg-gradient-to-r from-yellow-600 to-amber-600 mx-auto mt-6"></div>
         </div>
 
-        {/* Program Navigation */}
+        {}
         <div className="flex flex-wrap justify-center gap-4 mb-12">
           {Object.entries(programs).map(([key, program]) => (
             <button
@@ -97,7 +97,7 @@ const Programs = () => {
           ))}
         </div>
 
-        {/* Program Details */}
+        {}
         <div className="bg-white rounded-3xl shadow-2xl overflow-hidden border border-amber-200">
           <div className="bg-gradient-to-r from-amber-600 to-yellow-600 p-8 text-white">
             <div className="flex items-center space-x-4 mb-4">
