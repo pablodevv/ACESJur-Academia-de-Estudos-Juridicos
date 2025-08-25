@@ -104,7 +104,7 @@ const Library = () => {
           <div className="w-24 h-1 bg-gradient-to-r from-yellow-600 to-amber-600 mx-auto mt-6"></div>
         </div>
 
-        {/* Search and Filter */}
+        {}
         <div className="mb-12">
           <div className="bg-white rounded-2xl shadow-xl p-6 border border-amber-200">
             <div className="flex flex-col md:flex-row gap-4 items-center">
@@ -130,7 +130,7 @@ const Library = () => {
           </div>
         </div>
 
-        {/* Tabs */}
+        {}
         <div className="flex justify-center mb-12">
           <div className="bg-white rounded-full p-2 shadow-xl border border-amber-200">
             <button
@@ -160,7 +160,7 @@ const Library = () => {
           </div>
         </div>
 
-        {/* Content */}
+        {}
         {activeTab === 'articulos' && (
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {articles.map((article, index) => (
@@ -225,7 +225,7 @@ const Library = () => {
           </div>
         )}
 
-        {/* Call to Action */}
+        {}
         <div className="mt-16 text-center">
           <div className="bg-gradient-to-r from-amber-600 to-yellow-600 p-8 rounded-2xl shadow-2xl max-w-4xl mx-auto">
             <h3 className="text-2xl md:text-3xl font-bold text-white mb-4">
