@@ -28,7 +28,7 @@ const Header = () => {
             </div>
           </div>
 
-          {/* Desktop Navigation */}
+          {}
           <nav className="hidden md:flex space-x-8">
             {navigation.map((item) => (
               <a
@@ -41,7 +41,7 @@ const Header = () => {
             ))}
           </nav>
 
-          {/* Mobile menu button */}
+          {}
           <div className="md:hidden">
             <button
               onClick={() => setIsMenuOpen(!isMenuOpen)}
@@ -52,7 +52,7 @@ const Header = () => {
           </div>
         </div>
 
-        {/* Mobile Navigation */}
+        {}
         {isMenuOpen && (
           <div className="md:hidden bg-amber-800 rounded-lg mb-4 shadow-xl">
             <div className="px-4 py-2 space-y-2">
